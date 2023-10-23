@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/12 09:36:27.000.472,=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/23 15:43:33.827,=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/23 15:44:11.166,C:\Users\Marcos\Documents\Marcos\Projetos\PadroesProjetoDelphi\Prototype\Prototype.view.principal.dfm=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/10/23 15:44:11.166,C:\Users\Marcos\Documents\Marcos\Projetos\PadroesProjetoDelphi\Prototype\Prototype.view.principal.pas=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/10/23 15:44:20.890,C:\Users\Marcos\Documents\Marcos\Projetos\PadroesProjetoDelphi\Prototype\Prototype.dproj=C:\Users\Marcos\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/10/23 15:44:26.323,=C:\Users\Marcos\Documents\Marcos\Projetos\PadroesProjetoDelphi\Prototype\Unit1.pas</Transaction>
+    <Transaction>2023/10/23 15:44:43.866,C:\Users\Marcos\Documents\Marcos\Projetos\PadroesProjetoDelphi\Prototype\Prototype.Model.Itens.pas=C:\Users\Marcos\Documents\Marcos\Projetos\PadroesProjetoDelphi\Prototype\Unit1.pas</Transaction>
+    <Transaction>2023/10/23 15:45:06.262,=C:\Users\Marcos\Documents\Marcos\Projetos\PadroesProjetoDelphi\Prototype\Unit1.pas</Transaction>
+    <Transaction>2023/10/23 15:45:24.420,C:\Users\Marcos\Documents\Marcos\Projetos\PadroesProjetoDelphi\Prototype\Prototype.Model.Interfaces.pas=C:\Users\Marcos\Documents\Marcos\Projetos\PadroesProjetoDelphi\Prototype\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

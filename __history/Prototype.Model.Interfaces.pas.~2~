@@ -1,0 +1,13 @@
+unit Prototype.Model.Interfaces;
+
+interface
+
+type
+
+  iTens = interface
+    ['{3FD28991-B80C-489D-8AB3-D1F20B65AFE2}']
+  end;
+
+implementation
+
+end.
